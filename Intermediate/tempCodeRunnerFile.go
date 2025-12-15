@@ -1,1 +1,1 @@
-3.14
+defer os.Remove(file.Name())
